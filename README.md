@@ -1,10 +1,16 @@
 Projeto Trivia! :technologist:
+
+## Instruções
+
+Primeiramente faça o clone do projeto e depois:
 Jogo Web desenvolvido baseado no Show do Milhão (pergunta e respostas)
 
 - Utilizado React e Redux.
 
-Instruções
-
-Primeiramente faça o clone do projeto e depois:
+```bash
 - npm install
+```
+
+```bash
 - npm start
+```
