@@ -1,4 +1,4 @@
-Projeto Trivia!
+Projeto Trivia! :technologist:
 Jogo Web desenvolvido baseado no Show do Milhão (pergunta e respostas)
 
 - Utilizado React e Redux.
@@ -6,6 +6,5 @@ Jogo Web desenvolvido baseado no Show do Milhão (pergunta e respostas)
 Instruções
 
 Primeiramente faça o clone do projeto e depois:
-
-~> npm install
-~> npm start
+- npm install
+- npm start
